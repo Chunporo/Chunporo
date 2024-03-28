@@ -1,3 +1,4 @@
+<!--
 ## Hey there! I'm Quoc Trung 👨‍💻
 
 🎓 Second-year AI enthusiast at FPT University Quy Nhon  
@@ -8,7 +9,8 @@
 
 <!--#### 💼 Experience
 - [Internship/Project Experience, if any]
-- [Relevant Coursework]-->
+- [Relevant Coursework]
+
 
 #### 🛠️ Skills
 - **Programming Languages:** Python, 
@@ -25,11 +27,12 @@
 - [LinkedIn](https://www.linkedin.com/in/hu%E1%BB%B3nh-qu%E1%BB%91c-trung-8898a8217/)
 
 Let's collaborate, innovate, and bring AI-powered solutions to life! 🚀
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&theme=tokyonight)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunporo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Chunporo/Chunporo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
