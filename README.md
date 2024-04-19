@@ -28,7 +28,7 @@
 
 Let's collaborate, innovate, and bring AI-powered solutions to life! 🚀
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&theme=dracula)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunporo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -47,3 +47,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|  Chunporo    |Chunporo |
+| ----------- | ----------- |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chunporo&date_format=M%20j%5B%2C%20Y%5D" alt=Chunporo github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&include_all_commits=true" alt=Chunporo github stats" />  |
+
+
+1
