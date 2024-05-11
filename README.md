@@ -1,4 +1,3 @@
-<!--
 ## Hey there! I'm Quoc Trung 👨‍💻
 
 🎓 Second-year AI enthusiast at FPT University Quy Nhon  
@@ -6,11 +5,6 @@
 👨‍💻 Passionate about crafting intelligent systems and playing with data to uncover insights  
 🔍 Actively seeking opportunities to collaborate on exciting projects and learn from the community  
 🚀 On a mission to leverage the power of AI for real-world applications  
-
-<!--#### 💼 Experience
-- [Internship/Project Experience, if any]
-- [Relevant Coursework]
-
 
 #### 🛠️ Skills
 - **Programming Languages:** Python, 
@@ -49,5 +43,5 @@ Here are some ideas to get you started:
 -->
 |  Chunporo    | Chunporo |
 | ----------- | ----------- |
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chunporo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Chunporo github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&include_all_commits=true&theme=dracula" alt="Chunporo github stats" />  |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Chunporo&date_format=M%20j%5B%2C%20Y%5D" alt="Chunporo github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&include_all_commits=true" alt="Chunporo github stats" />  |
 
