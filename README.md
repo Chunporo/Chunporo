@@ -16,12 +16,6 @@
 - Exploring new techniques in Machine Learning and Deep Learning
 - Designing intelligent systems for real-world applications
 - Data-driven decision making and predictive modeling
-
-#### 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/hu%E1%BB%B3nh-qu%E1%BB%91c-trung-8898a8217/)
-
-Let's collaborate, innovate, and bring AI-powered solutions to life! 🚀
--->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&theme=dracula)
 
 <!--
