@@ -1,21 +1,5 @@
-## Hey there! I'm Quoc Trung 👨‍💻
 
-🎓 Second-year AI enthusiast at FPT University Quy Nhon  
-🌱 Eager to dive deep into the realms of Data Science, Machine Learning, and Deep Learning  
-👨‍💻 Passionate about crafting intelligent systems and playing with data to uncover insights  
-🔍 Actively seeking opportunities to collaborate on exciting projects and learn from the community  
-🚀 On a mission to leverage the power of AI for real-world applications  
 
-#### 🛠️ Skills
-- **Programming Languages:** Python, 
-- **Tools & Frameworks:** TensorFlow, PyTorch, scikit-learn, 
-- **Data Manipulation & Visualization:** Pandas, Matplotlib, Seaborn
-- **Version Control:** Git, GitHub
-
-#### 🌟 Interests
-- Exploring new techniques in Machine Learning and Deep Learning
-- Designing intelligent systems for real-world applications
-- Data-driven decision making and predictive modeling
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chunporo&show_icons=true&theme=dracula)
 
 <!--
