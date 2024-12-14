@@ -1,5 +1,3 @@
-<h1 align="center">Hello there, I'm Quoc Trung👋 </h1>
-
 ## 🧑‍💻About me
 Hello! I am a second-year student at FPT University - Quy Nhon, specializing in Data Science and Artificial Intelligence. My academic journey is focused on acquiring a deep understanding of data analysis, machine learning, and AI technologies. 
 📊🤖 I am passionate about leveraging data to uncover insights and drive innovations in various fields. Through my coursework and projects, I aim to develop a robust skill set that includes statistical analysis, programming, and advanced AI techniques. 
